@@ -1,14 +1,17 @@
-# Määrittelydokumentti
+# Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit
+## Lassi Savolainen, fil.yo tietojenkäsittelytieteen kandiohjelmassa, 2025
+### Määrittelydokumentti
 
-### Harjoitustyön ydin
+
+#### Harjoitustyön ydin
 
 Harjoitustyössä vertaillaan [konveksin verhon](https://en.wikipedia.org/wiki/Convex_hull) selvittämiseen käytettäviä [algoritmeja](https://en.wikipedia.org/wiki/Convex_hull_algorithms)
 
-### Työssä käytettävät ohjelmointikielet
+#### Työssä käytettävät ohjelmointikielet
 
 Harjoitustyö toteutetaan Pythonilla.
 
-### Työssä käytettävät algoritmit ja tietorakenteet.
+#### Työssä käytettävät algoritmit ja tietorakenteet.
 
 Harjoitustyössä vertaillaan ainakin seuraavia konveksin verhon selvittämisen algoritmeja:
 
@@ -18,13 +21,13 @@ Harjoitustyössä vertaillaan ainakin seuraavia konveksin verhon selvittämisen 
 
 Ajan salliessa vertailuun voidaan lisätä muitakin algoritmeja.
 
-### Työssä ratkaistava ongelma
+#### Työssä ratkaistava ongelma
 
 Työssä demonstroidaan eri algortimien vahvuuksia ja heikkouksia erikokoisilla syötteillä.
 
 Ajan salliessa työssä voidaan vertailla algoritemja myöskin erityisillä syötteillä, jotka ovat tietynlaisille algoritmeille vaikeampia kuin toisille.
 
-### Työssä käytettävien algoritmien aika- ja tilavaativuudet
+#### Työssä käytettävien algoritmien aika- ja tilavaativuudet
 
 Merkiten, että *n* pisteen joukosta löydetään *h* pistettä sisältävä koveksi verho.
 
@@ -38,13 +41,14 @@ Merkiten, että *n* pisteen joukosta löydetään *h* pistettä sisältävä kov
     - Aikavaativuus O(*n* log *n*)
     - Tilavaativuus O(*n*)
 
-## Muut merkittävät asiat
+### Muut merkittävät asiat
 
-### Kurssisuoritus
+
+#### Kurssisuoritus
 
 Kurssi suoritetaan tieojenkäsittelytieteen kandiohjelmassa suomen kielellä.
 
-### Vertaisarviointikielet
+#### Vertaisarviointikielet
 
 Voin vertaisarvioida ainakin seuraavia kieliä käyttäviä projekteja:
 

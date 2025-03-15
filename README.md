@@ -1,5 +1,2 @@
-# Aineopintojen harjoitustyö: Algoritmit ja tekoäly
-Palautukset kurssille "Aineopintojen harjoitustyö: Algoritmit ja tekoäly"
-
-
-Lassi Savolainen, 2025
+# Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit
+## Lassi Savolainen, fil.yo tietojenkäsittelytieteen kandiohjelmassa, 2025

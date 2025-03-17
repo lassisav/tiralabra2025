@@ -1,4 +1,5 @@
 import tkinter as tk
+from gift_wrapping import gift_wrapping as gw
 
 def main():
     ikkuna = tk.Tk()
@@ -36,7 +37,7 @@ def dialogi(maara, nimi, numero):
     print(maara + " pisteellä " + nimi + "-algortimilla meni x millisekuntia. (WIP)")
 
 def pisteiden_haku(maara):
-    return [(1, 1), (2, 2), (3, 3)]
+    return [(1, 1), (2, 9), (7, 4), (4, 8), (5, 6), (9, 2), (5, 9), (4, 2), (7, 6)]
 
 def algoritmin_valinta(pisteet, numero):
     match numero:
@@ -49,7 +50,8 @@ def algoritmin_valinta(pisteet, numero):
     return
         
 def gift_wrapping(pisteet):
-    print("TODO: Gift wrapping -algoritmi")
+    print("Ajetaan Gift Wrapping:")
+    print(gw(pisteet))
 
 def graham_scan(pisteet):
     print("TODO: Graham scan -algoritmi")
